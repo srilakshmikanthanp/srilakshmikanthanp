@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my Profile.
+
+#### Who I am 🤔 ?
+
+I am a student currently Finished My HR SEC Education !
+
+#### What I done 🤔 ?
+
+See My [repo](https://github.com/srilakshmikanthanp?tab=repositories) and my [gists](https://gist.github.com/srilakshmikanthanp).
