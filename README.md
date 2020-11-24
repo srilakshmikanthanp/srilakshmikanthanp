@@ -19,7 +19,7 @@ Welcome to my Profile.
 
 #### Who I am 🤔 ?
 
-I am a student currently Finished My HR SEC Education !
+I am a student currently studing B.Tech IT in university college of engineering, tiruchirappalli !
 
 #### What I done 🤔 ?
 
