@@ -25,9 +25,7 @@ I am currently learning math
 
 ## Technologies
 
-<img src = "cpp.svg" width="50" height="50">
-<img src = "go.svg" width="50" height="50">
-<img src = "java.svg" width="50" height="50">
+<img src = "cpp.svg" width="50" height="50"> <img src = "go.svg" width="50" height="50"> <img src = "java.svg" width="50" height="50">
 
 ## Contact
 
