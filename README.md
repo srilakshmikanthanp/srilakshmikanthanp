@@ -31,5 +31,5 @@ I am currently learning math
 
 ## Contact
 
-[<img src = "gmail.svg" width="50" Height="50">](srilakshmikanthanp@gmail.com)
+<a href="mailto:srilakshmikanthanp@gmail.com"><img src="gmail.svg" /></a>
 [<img src = "stack.svg" width="50" Height="50">](https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile)
