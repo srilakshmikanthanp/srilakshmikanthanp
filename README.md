@@ -24,7 +24,7 @@ Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from india cur
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with business
 - 💬 Ask me about anything
-- 📫 How to reach me: through [email](srilakshmikanthanp)
+- 📫 How to reach me: [email me](srilakshmikanthanp@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Searched but None in goolge is intrested
 
