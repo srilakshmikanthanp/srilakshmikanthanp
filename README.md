@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=srilakshmikanthanp)
+![](https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square)
 ### Hi there 👋
 <!--
 **srilakshmikanthanp/srilakshmikanthanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
