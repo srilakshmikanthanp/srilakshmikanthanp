@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from india currently studing engineering in university collage of engineering, trirucharapalli.
+Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from kumbakonam, india currently studing engineering in university collage of engineering, trirucharapalli.
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning math
