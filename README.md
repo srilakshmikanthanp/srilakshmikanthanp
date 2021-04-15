@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen)
-### Hi there 👋
 <!--
 **srilakshmikanthanp/srilakshmikanthanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my Profile.
+![](https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen)
 
-#### Who I am 🤔 ?
+# Hi there 👋
 
-I am a student currently studing B.Tech IT in university college of engineering, tiruchirappalli !
+Hello, I am Sri Lakshmi Kanthan a student from india currently studing engineering in university collage of engineering, trirucharapalli.
 
-#### Stackoverflow
+# Currently learning
 
-My stackoverflow profile [srilakshmikanthanp](https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile)
+I am currently learning math
 
-#### Contact
+## Technologies
 
-My personal email srilakshmikanthanp@gmail.com
+<img src = "cpp.svg" width="50" height="50">
+<img src = "go.svg" width="50" height="50">
+<img src = "java.svg" width="50" height="50">
+
+## Contact
+
+[<img src = "gmail.svg" width="50" Height="50">](srilakshmikanthanp@gmail.com)
+[<img src = "stack.svg" width="50" Height="50">](https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile)
