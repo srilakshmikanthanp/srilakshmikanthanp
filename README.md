@@ -19,15 +19,10 @@ Here are some ideas to get you started:
 
 Hello, I am Sri Lakshmi Kanthan a student from india currently studing engineering in university collage of engineering, trirucharapalli.
 
-# Currently learning
+## Technologies 💻
 
-I am currently learning math
+<img src = "image/cpp.svg" width="50" height="50"> <img src = "image/go.svg" width="50" height="50"> <img src = "image/java.svg" width="50" height="50">
 
-## Technologies
+## Contact 📱
 
-<img src = "cpp.svg" width="50" height="50"> <img src = "go.svg" width="50" height="50"> <img src = "java.svg" width="50" height="50">
-
-## Contact
-
-<a href="mailto:srilakshmikanthanp@gmail.com"><img src="gmail.svg" width="50" Height="50"></a>
-[<img src = "stack.svg" width="50" Height="50">](https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile)
+<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a herf = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50">
