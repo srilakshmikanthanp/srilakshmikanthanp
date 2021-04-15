@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 
 Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from india currently studing engineering in university collage of engineering, trirucharapalli.
 
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning math
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with business
+- 💬 Ask me about anything
+- 📫 How to reach me: through [email](srilakshmikanthanp)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Searched but None in goolge is intrested
+
 ## Technologies 💻
 
 <img src = "image/cpp.svg" width="50" height="50"> <img src = "image/go.svg" width="50" height="50"> <img src = "image/java.svg" width="50" height="50">
