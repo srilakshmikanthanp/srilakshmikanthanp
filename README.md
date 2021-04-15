@@ -34,4 +34,4 @@ Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from india cur
 
 ## Contact 📱
 
-<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a herf = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50">
+<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50">
