@@ -36,4 +36,4 @@ Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from kumbakona
 
 ## Contact 📱
 
-<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50">
+<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50"><a href = "https://twitter.com/srilaxmikanthan"><img src = "image/twitter.png" width="50" Height="50"><a href = "https://www.facebook.com/sri.l.kanthan.1/"><img src = "image/facebook.svg" width="50" Height="50"><a href = "https://www.instagram.com/srilakshmikanthanp/"><img src = "image/insta.svg" width="50" Height="50">
