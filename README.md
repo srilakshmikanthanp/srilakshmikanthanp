@@ -24,13 +24,15 @@ Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from kumbakona
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with business
 - 💬 Ask me about anything
-- 📫 How to reach me: [email me](srilakshmikanthanp@gmail.com)
+- 📫 How to reach me: email me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Searched but None in goolge is intrested
 
-## Technologies 💻
+## Github Stats 💻
 
-<img src = "image/cpp.svg" width="50" height="50"> <img src = "image/go.svg" width="50" height="50"> <img src = "image/java.svg" width="50" height="50">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 📱
 
