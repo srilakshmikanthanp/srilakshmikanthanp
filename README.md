@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <a align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark"/>
 </a>
 </p>
 
