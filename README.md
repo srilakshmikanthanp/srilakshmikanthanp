@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen)
-
-# Hi there 👋
-
-Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from kumbakonam, india currently studing engineering in university collage of engineering, trirucharapalli.
+<h1 align="center"> Hi 👋, I am Sri Lakshmi Kanthan </h1>
+<h3 align="center"> Hobbiyst programmer from kumbakonam, india currently studing engineering in university collage of engineering, trirucharapalli. </h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
+</p>
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning math
@@ -30,10 +30,13 @@ Hello, I am Sri Lakshmi Kanthan a student and hobbiyst programmer from kumbakona
 
 ## Github Stats 💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark"/>
+</a>
+</p>
 
 ## Contact 📱
 
-<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a> <a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50"><a href = "https://twitter.com/srilaxmikanthan"><img src = "image/twitter.png" width="50" Height="50"><a href = "https://www.facebook.com/sri.l.kanthan.1/"><img src = "image/facebook.svg" width="50" Height="50"><a href = "https://www.instagram.com/srilakshmikanthanp/"><img src = "image/insta.svg" width="50" Height="50">
+<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a><a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50"><a href = "https://twitter.com/srilaxmikanthan"><img src = "image/twitter.png" width="50" Height="50"><a href = "https://www.facebook.com/sri.l.kanthan.1/"><img src = "image/facebook.svg" width="50" Height="50"><a href = "https://www.instagram.com/srilakshmikanthanp/"><img src = "image/insta.svg" width="50" Height="50">
