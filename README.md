@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi 👋, I am Sri Lakshmi Kanthan :boy: </h1>
-<h3 align="center"> Hobbiyst programmer from kumbakonam, india currently studing engineering in university collage of engineering, trirucharapalli. </h3>
+<h3 align="center"> Hobbiyst programmer from kumbakonam, TamilNadu currently studing engineering in university collage of engineering, trirucharapalli. </h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
 </p>
