@@ -34,7 +34,3 @@ Here are some ideas to get you started:
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark&layout=compact"/>
 </a></p>
-
-### Contact 📱
-
-<a href="mailto:srilakshmikanthanp@gmail.com"><img src="image/gmail.svg" width="50" Height="50"></a><a href = "https://stackoverflow.com/users/12473258/srilakshmikanthanp?tab=profile"><img src = "image/stack.svg" width="50" Height="50"><a href = "https://twitter.com/srilaxmikanthan"><img src = "image/twitter.png" width="50" Height="50"><a href = "https://www.facebook.com/sri.l.kanthan.1/"><img src = "image/facebook.svg" width="50" Height="50"><a href = "https://www.instagram.com/srilakshmikanthanp/"><img src = "image/insta.svg" width="50" Height="50">
