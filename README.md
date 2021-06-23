@@ -1,36 +1,20 @@
 <!--
-**srilakshmikanthanp/srilakshmikanthanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Copyright (c) 2021 Sri Lakshmi Kanthan P
+ 
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
 -->
 
-<h1 align="center"> Hi 👋, I am Sri Lakshmi Kanthan :boy: </h1>
-<h3 align="center"> Hobbiyst programmer from kumbakonam, TamilNadu currently studing engineering in university collage of engineering, trirucharapalli. </h3>
-<p align="center"> 
+<h1 style="text-align:center">Hi!, 👋 I am Sri Lakshmi Kanthan</h1>
+<h3 style="text-align:center">A Student From Kumbakonam, TamilNadu</h3>
+<h4 style="text-align:center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
-</p>
+</h4>
+<h4 align="center"><a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a></h4>
 
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning math
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with business
-- 💬 Ask me about anything
-- 📫 How to reach me: email me
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Searched but None in goolge is intrested
+<hr>
 
-### Github Stats 💻
-
-<a align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark&layout=compact"/>
+<p style="text-align: center; width:100%"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="width:47%" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
+  <img style="width:39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark&layout=compact"/>
 </a></p>
