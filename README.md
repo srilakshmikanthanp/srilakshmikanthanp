@@ -5,12 +5,14 @@
  https://opensource.org/licenses/MIT
 -->
 
-<p>
-  <img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=url('https://github.com/srilakshmikanthanp/srilakshmikanthanp/blob/main/image/Banner.png?raw=true')" width="100%" height="300px">
+<p align="center">
+  <a href="https://github.com/sriakshmikanthanp/titlecard"><img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=url(https://github.com/srilakshmikanthanp/srilakshmikanthanp/blob/main/image/Banner.png?raw=true)" align="center" width="600px" height="300px"></a>
 </p>
+
 <h4 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
 </h4>
+
 <h4 align="center"><a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a></h4>
 
 <hr>
