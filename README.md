@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/sriakshmikanthanp/titlecard"><img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=url('https://github.com/srilakshmikanthanp/srilakshmikanthanp/blob/main/image/Banner.png?raw=true')" align="center" width="600px" height="300px"></a>
+  <a href="https://github.com/sriakshmikanthanp/titlecard"><img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=url(https://images.pexels.com/photos/266526/pexels-photo-266526.jpeg)" align="center" width="600px" height="300px"></a>
 </p>
 
 <h4 align="center"> 
