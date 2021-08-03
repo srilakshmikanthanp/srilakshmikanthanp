@@ -6,7 +6,8 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/sriakshmikanthanp/titlecard"><img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=linear-gradient(to%20bottom,%20%23d53369,%20%23cbad6d)" align="center" width="600px" height="300px"></a>
+ <h1 align="center">Hi!, I am Sri Lakshmi Kanthan </h1>
+ <h3 align="center">Student</h3>
 </p>
 
 <h4 align="center"> 
