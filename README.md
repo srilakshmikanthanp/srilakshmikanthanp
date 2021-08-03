@@ -5,8 +5,9 @@
  https://opensource.org/licenses/MIT
 -->
 
-<h1 align="center">Hi!, 👋 I am Sri Lakshmi Kanthan</h1>
-<h3 align="center">A Student From Kumbakonam, TamilNadu</h3>
+<p>
+  <img src="https://titlecard.herokuapp.com/?card=plain&intro=Hi!,%20I%20am&title=Sri%20Lakshmi%20Kanthan&about=student&bg=url('image/Banner.png')">
+</p>
 <h4 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
 </h4>
