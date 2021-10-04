@@ -5,14 +5,17 @@
  https://opensource.org/licenses/MIT
 -->
 
-![Banner](https://user-images.githubusercontent.com/56999577/135830093-92278df2-c279-4d0e-b29f-34b244ee1528.png)
-
+<h2 align="center"> 
+  <img src="./image/banner.svg">
+</h2>
 
 <h4 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
 </h4>
 
-<h4 align="center"><a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a></h4>
+<h4 align="center">
+  <a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a>
+</h4>
 
 <hr>
 
