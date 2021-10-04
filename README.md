@@ -5,10 +5,8 @@
  https://opensource.org/licenses/MIT
 -->
 
-<p align="start">
- <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Sri Lakshmi Kanthan </h1>
- <h3 align="center">Student</h3>
-</p>
+![Banner](https://user-images.githubusercontent.com/56999577/135830093-92278df2-c279-4d0e-b29f-34b244ee1528.png)
+
 
 <h4 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
