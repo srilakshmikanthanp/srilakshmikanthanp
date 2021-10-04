@@ -13,6 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
 </h4>
 
+<br>
+
+<p align="center">
+Hello, I am Sri Lakshmi Kanthan a student from TamilNadu, Currently studing Information Technology at Anna University, Trichy. I am a self-taught Developer and I love to learn new things. Other than programming I love math and physics.
+</p>
+
+<br>
+
 <h4 align="center">
   <a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a>
 </h4>
