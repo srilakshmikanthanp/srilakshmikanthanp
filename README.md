@@ -9,10 +9,6 @@
   <img src="./image/banner.svg">
 </h2>
 
-<h4 align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=srilakshmikanthanp&style=flat-square&color=brightgreen">
-</h4>
-
 <br>
 
 <p align="center">
