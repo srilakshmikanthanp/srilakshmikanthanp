@@ -16,7 +16,7 @@ Hello, I am Sri Lakshmi Kanthan a student from TamilNadu, Currently studing Info
 </p>
 
 <h4 align="center">
-  <a href="mailto:srilakshmikanthanp@gmail.com"> Email </a> | <a href="https://srilakshmikanthanp.github.io">Website</a>
+  <a href="mailto:srilakshmikanthanp@gmail.com"> Email </a>  |  <a href="https://srilakshmikanthanp.github.io">Website</a>
 </h4>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
