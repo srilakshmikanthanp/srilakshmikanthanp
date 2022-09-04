@@ -6,12 +6,12 @@
 -->
 
 <h2 align="center"> 
-  <img src="./image/banner.svg">
+  <img src="./assets/image/banner.svg">
 </h2>
 
 <h4 align="center">
-  <a href="mailto:srilakshmikanthanp@gmail.com"> Email </a>  |  
-  <a href="https://srilakshmikanthanp.github.io">Website</a> | 
+  <a href="mailto:srilakshmikanthanp@gmail.com">  Email  </a>  |  
+  <a href="https://srilakshmikanthanp.github.io"> Website</a>  | 
   <a href="tel:+919788852091">+91 9788852091</a> 
 </h4>
 
