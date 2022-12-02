@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">
-  <div>Sri Lakshmi Kanthan :boy:</div>
+  <div>Sri Lakshmi Kanthan</div>
   <div align="center">
     <img src="https://img.shields.io/github/followers/srilakshmikanthanp?style=social">
     <img src="https://img.shields.io/github/stars/srilakshmikanthanp?style=social">
