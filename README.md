@@ -21,6 +21,5 @@ Hello, This is Sri Lakshmi Kanthan a student from Tamilnadu, Currently pursuing 
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/srilakshmikanthanp?style=social">
-  <img src="https://img.shields.io/twitter/follow/itsmekanth?style=social">
   <img src="https://img.shields.io/github/stars/srilakshmikanthanp?style=social">
 </div>
