@@ -6,7 +6,11 @@
 -->
 
 <h1 align="center">
-  Sri Lakshmi Kanthan
+  <header>Sri Lakshmi Kanthan :boy:</header>
+  <footer align="center">
+    <img src="https://img.shields.io/github/followers/srilakshmikanthanp?style=social">
+    <img src="https://img.shields.io/github/stars/srilakshmikanthanp?style=social">
+  </footer>
 </h1>
 
 <p align="center">
@@ -18,8 +22,3 @@
 <p align="center">
 Hello, This is Sri Lakshmi Kanthan a student from Tamilnadu, Currently pursuing my B.TECH in Information Technology at University College of Engineering, Trichy. I am a self-taught developer and I love to learn new things. Other than programming I like math and physics.
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/srilakshmikanthanp?style=social">
-  <img src="https://img.shields.io/github/stars/srilakshmikanthanp?style=social">
-</div>
