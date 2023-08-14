@@ -20,5 +20,15 @@
 </p>
 
 <p align="center">
-Hello, This is Sri Lakshmi Kanthan a student from Tamilnadu, Currently pursuing my B.TECH in Information Technology at University College of Engineering, Trichy. I am a self-taught developer and I love to learn new things. Other than programming I like math and physics.
+I'm a student who enjoys coding. I've
+spent years creating open-source
+and proprietary corporate software. I
+began as a hobby programmer,
+which led me to pursue a formal
+computer science education, create
+many open-source programs, and
+then shift into an internship role,
+where I played an integral part in the
+development of industry-standard
+applications.
 </p>
