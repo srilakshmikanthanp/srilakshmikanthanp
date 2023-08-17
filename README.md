@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:srilakshmikanthanp@gmail.com">  Email  </a>  |  
-  <a href="https://srilakshmikanthanp.github.io"> Website</a>  | 
+  <a href="https://srilakshmikanthanp.github.io"> Website</a>
 </p>
 
 <p align="center">
