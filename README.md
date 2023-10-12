@@ -19,15 +19,5 @@
 </p>
 
 <p align="center">
-I'm a student who enjoys coding. I've
-spent years creating open-source
-and proprietary corporate software. I
-began as a hobby programmer,
-which led me to pursue a formal
-computer science education, create
-many open-source programs, and
-then shift into an internship role,
-where I played an integral part in the
-development of industry-standard
-applications.
+I’m a person who enjoys code. I began as a hobby programmer in high school, which led me to pursue a formal computer science education. I’ve spent years creating open-source applications as well as proprietary industry-standard applications.
 </p>
