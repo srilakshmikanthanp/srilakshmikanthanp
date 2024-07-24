@@ -21,3 +21,21 @@
 <p align="center">
 I’m a person who enjoys code. I began as a hobby programmer in high school, which led me to pursue a formal computer science education. I’ve spent years creating open-source applications as well as proprietary industry-standard applications.
 </p>
+
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+	<table align="center">
+		<tr>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&show_icons=true&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			</a>
+		</td>
+		<td align="center">
+		 <a href="#go-nowhere">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			</a>
+		</td>
+	</table>
+	  <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed.</p>
+</details>
