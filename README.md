@@ -28,7 +28,7 @@ I’m a person who enjoys code. I began as a hobby programmer in high school, wh
 		<h3 style="display: inline;">What do I do?<h3>
 	</summary>
 	<a href="#go-nowhere">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
 	</a>
 	<p align="center">
   <sub><i>
