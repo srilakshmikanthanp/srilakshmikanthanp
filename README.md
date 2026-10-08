@@ -1,39 +1,5 @@
-<!--
- Copyright (c) 2021 Sri Lakshmi Kanthan P
- 
- This software is released under the MIT License.
- https://opensource.org/licenses/MIT
--->
+I’m a software engineer from Kumbakonam, Tamil Nadu, India. I studied at Little Flower Higher Secondary School, Kumbakonam, and later earned a degree in Information Technology from the University College of Engineering, Anna University, Trichy.
 
+I wrote my first program in C in 11th grade, on pen and paper, when my computer teacher taught us a program to generate the Fibonacci series. What started as a hobby eventually became my career. Outside of software, I enjoy learning math and physics.
 
-<h1 align="center">
-  <div>Sri Lakshmi Kanthan</div>
-  <div align="center">
-    <img src="https://img.shields.io/github/followers/srilakshmikanthanp?style=social">
-    <img src="https://img.shields.io/github/stars/srilakshmikanthanp?style=social">
-  </div>
-</h1>
-
-<p align="center">
-  <a href="mailto:srilakshmikanthanp@gmail.com">  Email  </a>  |  
-  <a href="https://srilakshmikanthanp.github.io"> Website</a>
-</p>
-
-<p align="center">
-I’m a person who enjoys code. I began as a hobby programmer in high school, which led me to pursue a formal computer science education. I’ve spent years creating open-source applications as well as proprietary industry-standard applications.
-</p>
-
-<details align="center">
-	<summary align="center">
-		<h3 style="display: inline;">What do I do?<h3>
-	</summary>
-	<a href="#go-nowhere">
-		<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srilakshmikanthanp&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
-	</a>
-	<p align="center">
-  <sub><i>
-    The above stats do not show my skill levels or proficiency. It just shows what languages I use
-    the most. The stats are not accurate and some aren't even listed.
-  </i></sub>
-	</p>
-</details>
+I don’t limit myself to any particular area of software development. I enjoy exploring different fields and working on projects that interest me. Much of my work starts with a problem I’ve encountered myself.
